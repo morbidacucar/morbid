@@ -4,7 +4,7 @@
    with reasons. Today: edit index.html only. */
 
 body {
-  font-family: system-ui, -apple-system, "New Century Schoolbook", TeX Gyre Schola, serif;
+  font-family: "New Century Schoolbook", TeX Gyre Schola, serif;
   line-height: 1.5;
   color: #1a1a1a;
   background: rgb(214,166,222);
