@@ -4,14 +4,15 @@
    with reasons. Today: edit index.html only. */
 
 body {
-  font-family: system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;;
+  font-family: "Courier New", monospace;;
   line-height: 1.5;
-  color: #1a1a1a;
+  color: #000000;
   background: rgb(214,166,222);
   max-width: 70rem;          /* wider column so images appear larger */
   margin: 0 auto;
   padding: 1.5rem;
 }
+
 
 /* Decorative side trims */
 body::before,
