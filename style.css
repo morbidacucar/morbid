@@ -54,17 +54,17 @@ header, main, footer { position: relative; z-index: 1; }
 
 header { margin: 2rem 0 3rem; }
 header h1 { margin: 0; color: rgb(56,18,45); }
-header p { color: #666; margin: 0.25rem 0 0; }
+header p { color: #380303; margin: 0.25rem 0 0; }
 
 .project { margin: 0 0 4rem; }
 .project h2 { margin: 0 0 0.25rem; }
-.project .meta { color: #666; font-size: 0.9rem; margin: 0 0 1rem; }
+.project .meta { color: #380303; font-size: 0.9rem; margin: 0 0 1rem; }
 
 figure { margin: 1.5rem 0; }
 img, video { max-width: 100%; display: block; }
-figcaption { color: #666; font-size: 0.85rem; margin-top: 0.4rem; }
+figcaption { color: #380303; font-size: 0.85rem; margin-top: 0.4rem; }
 
-footer { margin: 4rem 0 2rem; color: #666; font-size: 0.9rem; }
+footer { margin: 4rem 0 2rem; color: #380303; font-size: 0.9rem; }
 
 /* Gallery grid */
 .gallery-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
