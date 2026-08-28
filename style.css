@@ -80,7 +80,7 @@ footer { margin: 4rem 0 2rem; color: #666; font-size: 0.9rem; }
 .lightbox-prev { left: 1rem; top: 50%; transform: translateY(-50%); }
 .lightbox-next { right: 1rem; top: 50%; transform: translateY(-50%); }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
   .lightbox-prev, .lightbox-next { display: none; }
 }
 
