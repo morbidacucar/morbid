@@ -4,15 +4,13 @@
    with reasons. Today: edit index.html only. */
 
 body {
-   font-family: system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;;
-   line-height: 1.5;
-   color: #1a1a1a;
-   background: rgb(214,166,222);
-   background: repeating-radial-gradient(closest-side, #3f87a6, #ebf8e1, #FF462E);
-   max-width: 70rem;          /* wider column so images appear larger */
-   margin: 0auto; padding: 1.5rem;
-   
-
+  font-family: system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background: rgb(214,166,222);
+  max-width: 70rem;          /* wider column so images appear larger */
+  margin: 0 auto;
+  padding: 1.5rem;
 }
 
 /* Decorative side trims */
