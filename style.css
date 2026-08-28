@@ -90,4 +90,3 @@ footer { margin: 4rem 0 2rem; color: #666; font-size: 0.9rem; }
 .lightbox-thumbs .thumb img { width: 72px; height: 54px; object-fit: cover; display: block; border-radius: 4px; }
 .lightbox-thumbs .thumb .title { color: #fff; font-size: 0.75rem; margin-top: 0.3rem; text-align: center; white-space: nowrap; text-overflow: ellipsis; overflow: hidden; max-width: 72px; }
 .lightbox-thumbs .thumb.active { outline: 2px solid rgba(255,255,255,0.9); }
-
