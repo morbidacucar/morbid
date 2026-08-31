@@ -67,7 +67,7 @@ header p { color: #380303; margin: 0.25rem 0 0; }
 .project .meta { color: #380303; font-size: 0.9rem; margin: 0 0 1rem; }
 
 figure { margin: 1.5rem 0; }
-img, video { inline-size: fit-content(10em); }
+img, video { max-width: 100%; display: block; inline-size: fit-content(10em); }
 figcaption { color: #380303; font-size: 0.85rem; margin-top: 0.4rem; }
 
 footer { margin: 4rem 0 2rem; color: #380303; font-size: 0.9rem; }
