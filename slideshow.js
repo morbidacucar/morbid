@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const galleryImgs = Array.from(document.querySelectorAll('.gallery-grid img, .project figure img'));
+  const galleryImgs = Array.from(document.querySelectorAll('.gallery-grid img, .project figure img, .container figure img'));
   const lightbox = document.getElementById('lightbox');
   if (!lightbox) { console.warn('Lightbox element not found'); return; }
   const lbImg = lightbox.querySelector('.lightbox-content img');
