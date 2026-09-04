@@ -15,7 +15,7 @@ background: repeating-radial-gradient(farthest-corner, #ebf8e1, #f69d3c, #3f87a6
   padding: 20px;
   font: 1.2em sans-serif;
 
-  column-width: 10em;
+  column-width: 20em;
   column-rule: 1px solid rgb(75 70 74);
 }
 
