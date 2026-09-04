@@ -2,7 +2,7 @@
 body {
   font-family: "Courier New", monospace;;
   line-height: 1.5;
-  color: #000000;
+  color: #3f87a6;
 background: repeating-radial-gradient(farthest-corner, #ebf8e1, #f69d3c, #3f87a6,);
   max-width: 70rem;          /* wider column so images appear larger */
   margin: 0 auto;
